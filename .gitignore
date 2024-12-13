@@ -5,3 +5,6 @@ data/
 
 fashion_image_label/
 mnist_image_label/
+
+checkpoint/
+checkpoint_save_param/
