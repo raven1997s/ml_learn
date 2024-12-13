@@ -2,3 +2,6 @@ venv/
 data/
 .DS_Store
 # ..
+
+fashion_image_label/
+mnist_image_label/
