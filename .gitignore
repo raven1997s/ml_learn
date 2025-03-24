@@ -8,3 +8,8 @@ mnist_image_label/
 
 checkpoint/
 checkpoint_save_param/
+
+train/
+val/
+logs/
+runs/
