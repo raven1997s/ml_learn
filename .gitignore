@@ -15,3 +15,5 @@ logs/
 runs/
 
 dataset/
+*.pth
+*.xlsx
